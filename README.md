@@ -1,12 +1,17 @@
 👋 Bienvenue sur mon GitHub !
-/n📖 **À propos de moi**
+
+📖 **À propos de moi**
+
 Je suis **Sokri Rayane**, un jeune développeur passionné de 18 ans avec un bac. J'adore explorer de nouvelles technologies, créer des jeux, des applications, et optimiser les performances avec Python.
 
 💻 **Compétences techniques**
+
 Langages principaux : PHP, Python (optimisation, jeux, applications bureautiques), Java, JavaScript, HTML, CSS
 Bases en : C, C#, C++
 Frameworks & outils : React, PocketMine-MP (Minecraft), Git
+
 🌟 **Projets principaux**
+
  - **FPS en ligne avec React**
 Un jeu de tir à la première personne développé avec React et JavaScript, avec gestion des animations et des interactions en temps réel.
 
