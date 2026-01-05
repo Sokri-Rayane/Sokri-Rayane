@@ -2,7 +2,7 @@
 
 📖 **À propos de moi**
 
-Je suis **Sokri Rayane**, un jeune développeur passionné de 18 ans avec un bac. J'adore explorer de nouvelles technologies, créer des jeux, des applications, et optimiser les performances avec Python.
+Je suis **Sokri Rayane**, un jeune développeur passionné de 19 ans avec un bac. J'adore explorer de nouvelles technologies, créer des jeux, des applications, et optimiser les performances avec Python.
 
 💻 **Compétences techniques**
 
